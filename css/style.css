@@ -1,0 +1,39 @@
+.container
+{
+    text-align: center;
+    margin-top: 5%;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+#list{
+  position: absolute;
+  top:8em;
+  left:17em;
+  width: 65%;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+} 
+
+
+#list thead{
+  font-size: large;
+  text-align: justify;
+  padding: 12px;
+}
+
+#list th{
+  border: 1px solid black;
+  padding: 12px;
+  color: red;
+  text-align: center;
+}
+
+#list td{
+  border: 1px solid black;
+  padding: 12px;
+  color: black;
+}
+
